@@ -1,0 +1,61 @@
+﻿Build started 2013-07-31 20:45:46.
+     1>Project "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\Lilla spelprojektet.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Lilla spelprojektet.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\Common /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/" /Fd"C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/vc100.pdb" /Gd /TP /analyze- /errorReport:prompt D3D11Handler.cpp main.cpp
+         main.cpp
+         D3D11Handler.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Bin/x86/Lilla spelprojektetD.exe" /INCREMENTAL /NOLOGO lua51.lib lua5.1.lib FW1FontWrapper.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Lilla spelprojektetD.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Bin\x86\Lilla spelprojektetD.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Bin/x86/Lilla spelprojektetD.lib" /MACHINE:X86 "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Lilla spelprojektetD.exe.embed.manifest.res"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/AI.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/AttackParticlePolicy.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/BaseParticle.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Buffer.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Camera.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/D3D11Handler.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/DeathExplosion.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Enemy.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/EnemyHandler.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Engine.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Entity.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Game.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/GameLogic.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/GameObject.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/GeometryManager.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/GUI.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Headquarter.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Input.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Level.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/main.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Node.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/OBJReader.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/ParticlePolicy.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/ParticleSystem.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Projectile.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Shader.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/SoundSystem.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Statistics.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Structure.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Supply.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Tower.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Trail.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Upgrade.obj"
+         "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/WinHandler.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Lilla spelprojektetD.exe.embed.manifest" /manifest "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Lilla spelprojektetD.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Lilla spelprojektet.vcxproj -> C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Bin/x86/Lilla spelprojektetD.exe
+       FinalizeBuildStatus:
+         Deleting file "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Lilla spelprojektet.unsuccessfulbuild".
+         Touching "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\../Obj/x86/Debug/Lilla spelprojektet.lastbuildstate".
+     1>Done Building Project "C:\Users\DämpaDig\Documents\GitHub\Lilla_spelprojektet\Lilla spelprojektet\Code\Lilla spelprojektet.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.13
