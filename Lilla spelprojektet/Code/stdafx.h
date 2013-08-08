@@ -79,17 +79,17 @@ struct PointLight
 
 };
 
-struct FaceType
-{
-		int vIndex1, vIndex2, vIndex3;
-		int tIndex1, tIndex2, tIndex3;
-		int nIndex1, nIndex2, nIndex3;
-
-		FaceType()
-		{
-		}
-
-};
+//struct FaceType
+//{
+//		int vIndex1, vIndex2, vIndex3;
+//		int tIndex1, tIndex2, tIndex3;
+//		int nIndex1, nIndex2, nIndex3;
+//
+//		FaceType()
+//		{
+//		}
+//
+//};
 
 
 
