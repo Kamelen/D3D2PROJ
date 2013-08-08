@@ -1,4 +1,0 @@
-3
-level1.txt 134.189
-level3.txt 300.293
-level4.txt 280.832

@@ -1,4 +1,0 @@
-enemiesPerMin 200
-difficulty 1
-resPerTick 2
-resCD 3
